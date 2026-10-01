@@ -1,0 +1,46 @@
+{
+  "scheme_id": "pmuy",
+  "name": "Pradhan Mantri Ujjwala Yojana 2.0",
+  "level": "central",
+  "state": null,
+  "department": "Ministry of Petroleum and Natural Gas",
+  "description": "LPG connection scheme for eligible adult women from poor households meeting the prescribed criteria.",
+  "benefits": [
+    "New LPG connection support under PMUY, subject to scheme conditions"
+  ],
+  "eligibility_rules": [
+    {
+      "field": "gender",
+      "operator": "eq",
+      "value": "female"
+    },
+    {
+      "field": "age",
+      "operator": "gte",
+      "value": 18
+    }
+  ],
+  "documents": [
+    "KYC application form",
+    "Aadhaar of applicant",
+    "Address proof where required",
+    "Ration card/state family-composition document or permitted declaration",
+    "Bank account details",
+    "Deprivation declaration"
+  ],
+  "application_steps": [
+    "Choose an LPG distributor or use the official PMUY application route",
+    "Submit KYC and required household documents",
+    "Complete verification"
+  ],
+  "application_url": "https://www.pmuy.gov.in/ujjwala2.html",
+  "official_source_url": "https://www.pmuy.gov.in/ujjwala2.html",
+  "last_verified": "2026-09-30",
+  "keywords": [
+    "gas",
+    "lpg",
+    "ujjwala",
+    "उज्ज्वला",
+    "महिला"
+  ]
+}

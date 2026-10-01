@@ -1,0 +1,39 @@
+{
+  "scheme_id": "pmay-g",
+  "name": "Pradhan Mantri Awaas Yojana - Gramin (PMAY-G)",
+  "level": "central",
+  "state": null,
+  "department": "Ministry of Rural Development",
+  "description": "Rural housing assistance for households meeting the scheme's deprivation and housing criteria.",
+  "benefits": [
+    "Housing assistance under PMAY-G for eligible rural households"
+  ],
+  "eligibility_rules": [
+    {
+      "field": "residence_type",
+      "operator": "eq",
+      "value": "rural"
+    }
+  ],
+  "documents": [
+    "Identity/address information",
+    "Household and housing information",
+    "Documents requested during official verification"
+  ],
+  "application_steps": [
+    "Use the official PMAY-G eligibility/self-survey process",
+    "Provide household and housing details for official verification"
+  ],
+  "application_url": "https://pmayg.nic.in/",
+  "official_source_url": "https://pmayg.nic.in/netiayHome/questions.html",
+  "last_verified": "2026-09-30",
+  "keywords": [
+    "housing",
+    "आवास",
+    "घर",
+    "rural",
+    "ग्रामीण",
+    "pmay",
+    "pmay-g"
+  ]
+}

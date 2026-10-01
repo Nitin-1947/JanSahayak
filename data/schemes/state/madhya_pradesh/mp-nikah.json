@@ -1,0 +1,47 @@
+{
+  "scheme_id": "mp-nikah",
+  "name": "मुख्यमंत्री निकाह योजना",
+  "level": "state",
+  "state": "Madhya Pradesh",
+  "department": "सामाजिक न्याय एवं दिव्यांगजन सशक्तिकरण विभाग",
+  "description": "Assistance for eligible collective nikah arrangements under the MP scheme conditions.",
+  "benefits": [
+    "₹49,000 to the bride and ₹6,000 per bride to the organizing local body under the published scheme details"
+  ],
+  "eligibility_rules": [
+    {
+      "field": "state",
+      "operator": "eq",
+      "value": "Madhya Pradesh"
+    },
+    {
+      "field": "gender",
+      "operator": "eq",
+      "value": "female"
+    },
+    {
+      "field": "age",
+      "operator": "gte",
+      "value": 18
+    }
+  ],
+  "documents": [
+    "Age proof",
+    "Other documents required during local-body verification"
+  ],
+  "application_steps": [
+    "Apply through the prescribed local-body process",
+    "Eligibility is verified by the relevant local authority",
+    "Participate in the prescribed collective nikah event"
+  ],
+  "application_url": "https://socialjustice.mp.gov.in/",
+  "official_source_url": "https://www.cmhelpline.mp.gov.in/Schmedetail.aspx?Schemeid=706",
+  "last_verified": "2026-09-30",
+  "keywords": [
+    "nikah",
+    "निकाह",
+    "विवाह",
+    "marriage",
+    "mp"
+  ]
+}

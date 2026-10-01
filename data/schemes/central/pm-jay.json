@@ -1,0 +1,30 @@
+{
+  "scheme_id": "pm-jay",
+  "name": "Ayushman Bharat PM-JAY",
+  "level": "central",
+  "state": null,
+  "department": "National Health Authority",
+  "description": "Health assurance scheme for entitled vulnerable families, with cashless hospitalization at empanelled hospitals.",
+  "benefits": [
+    "Coverage up to ₹5 lakh per family per year for covered secondary and tertiary hospitalization"
+  ],
+  "eligibility_rules": [],
+  "documents": [
+    "Government identity/beneficiary identification as required",
+    "Documents requested by the beneficiary verification process"
+  ],
+  "application_steps": [
+    "Check beneficiary eligibility on the official PM-JAY/beneficiary portal",
+    "Use an empanelled hospital for covered treatment"
+  ],
+  "application_url": "https://beneficiary.nha.gov.in/",
+  "official_source_url": "https://nha.gov.in/",
+  "last_verified": "2026-09-30",
+  "keywords": [
+    "health",
+    "स्वास्थ्य",
+    "ayushman",
+    "pm-jay",
+    "hospital"
+  ]
+}

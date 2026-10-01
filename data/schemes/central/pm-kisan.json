@@ -1,0 +1,37 @@
+{
+  "scheme_id": "pm-kisan",
+  "name": "PM-KISAN Samman Nidhi",
+  "level": "central",
+  "state": null,
+  "department": "Ministry of Agriculture & Farmers Welfare",
+  "description": "Income support scheme for eligible land-holding farmer families.",
+  "benefits": [
+    "₹6,000 per year in three equal instalments for eligible farmer families"
+  ],
+  "eligibility_rules": [
+    {
+      "field": "farmer",
+      "operator": "eq",
+      "value": true
+    }
+  ],
+  "documents": [
+    "Aadhaar/identity details as required by the portal",
+    "Land ownership/cultivable land records as applicable",
+    "Bank account details"
+  ],
+  "application_steps": [
+    "Use the official PM-KISAN registration/status services",
+    "Complete required authentication/eKYC and provide requested land and bank details"
+  ],
+  "application_url": "https://pmkisan.gov.in/",
+  "official_source_url": "https://pmkisan.gov.in/",
+  "last_verified": "2026-09-30",
+  "keywords": [
+    "farmer",
+    "किसान",
+    "pm kisan",
+    "pm-kisan",
+    "agriculture"
+  ]
+}

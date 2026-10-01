@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Aadhaar update",
+    "question": "Aadhaar में मोबाइल नंबर या पता कैसे अपडेट करें?",
+    "answer": "Aadhaar update के लिए UIDAI की official service/centre information देखें। Online address update जैसी सुविधाओं के लिए registered mobile/OTP और prescribed supporting documents की आवश्यकता हो सकती है; अन्य updates के लिए Aadhaar Enrolment/Update Centre का उपयोग किया जा सकता है।",
+    "source_url": "https://uidai.gov.in/en/updating-data-on-aadhaar",
+    "keywords": [
+      "aadhaar",
+      "आधार",
+      "mobile",
+      "मोबाइल",
+      "address",
+      "पता",
+      "update",
+      "अपडेट"
+    ]
+  },
+  {
+    "title": "myScheme",
+    "question": "सरकारी योजनाओं की जानकारी कहाँ मिलेगी?",
+    "answer": "Central और State/UT government schemes खोजने के लिए Government of India's myScheme platform इस्तेमाल किया जा सकता है। वहाँ scheme की eligibility, benefits, documents और application information उपलब्ध होती है।",
+    "source_url": "https://www.myscheme.gov.in/",
+    "keywords": [
+      "scheme",
+      "योजना",
+      "government",
+      "सरकारी",
+      "myscheme"
+    ]
+  },
+  {
+    "title": "Aadhaar safety",
+    "question": "क्या मैं AI को Aadhaar OTP या PIN बता सकता हूँ?",
+    "answer": "नहीं। Prototype assistant को Aadhaar OTP, PIN, password, CVV या bank password नहीं बताना चाहिए। ऐसे authentication secrets को store या process करने से बचें।",
+    "source_url": "https://uidai.gov.in/",
+    "keywords": [
+      "otp",
+      "pin",
+      "password",
+      "cvv",
+      "aadhaar"
+    ]
+  }
+]

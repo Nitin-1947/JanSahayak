@@ -1,0 +1,57 @@
+{
+  "scheme_id": "mp-mmvy",
+  "name": "मुख्यमंत्री मेधावी विद्यार्थी योजना",
+  "level": "state",
+  "state": "Madhya Pradesh",
+  "department": "तकनीकी शिक्षा, कौशल विकास एवं रोजगार विभाग",
+  "description": "Higher-education fee support for eligible meritorious students meeting the scheme conditions.",
+  "benefits": [
+    "Tuition-fee support/repayment according to the applicable course and scheme conditions"
+  ],
+  "eligibility_rules": [
+    {
+      "field": "state",
+      "operator": "eq",
+      "value": "Madhya Pradesh"
+    },
+    {
+      "field": "student",
+      "operator": "eq",
+      "value": true
+    },
+    {
+      "field": "parent_income",
+      "operator": "lt",
+      "value": 600000
+    },
+    {
+      "field": "class12_percent",
+      "operator": "gte",
+      "value": 70
+    }
+  ],
+  "documents": [
+    "Class 12 marksheet",
+    "Aadhaar card",
+    "Qualifying-exam marksheet",
+    "Income certificate",
+    "Domicile certificate",
+    "Fee receipt"
+  ],
+  "application_steps": [
+    "Use the official scheme/scholarship portal",
+    "Upload required academic, income and domicile documents",
+    "Complete institutional verification"
+  ],
+  "application_url": "http://scholarshipportal.mp.nic.in/MedhaviChhatra/Medhavi_New/Default.aspx",
+  "official_source_url": "https://www.cmhelpline.mp.gov.in/Schmedetail.aspx?Schemeid=878",
+  "last_verified": "2026-09-30",
+  "keywords": [
+    "medhavi",
+    "मेधावी",
+    "student",
+    "विद्यार्थी",
+    "scholarship",
+    "fee"
+  ]
+}

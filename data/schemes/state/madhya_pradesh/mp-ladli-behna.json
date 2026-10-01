@@ -1,0 +1,63 @@
+{
+  "scheme_id": "mp-ladli-behna",
+  "name": "मुख्यमंत्री लाड़ली बहना योजना",
+  "level": "state",
+  "state": "Madhya Pradesh",
+  "department": "महिला एवं बाल विकास विभाग",
+  "description": "MP scheme supporting women's economic self-reliance, health and nutrition.",
+  "benefits": [
+    "₹1,500 per month to an eligible woman under the currently published scheme information"
+  ],
+  "eligibility_rules": [
+    {
+      "field": "state",
+      "operator": "eq",
+      "value": "Madhya Pradesh"
+    },
+    {
+      "field": "gender",
+      "operator": "eq",
+      "value": "female"
+    },
+    {
+      "field": "age",
+      "operator": "gte",
+      "value": 21
+    },
+    {
+      "field": "age",
+      "operator": "lt",
+      "value": 60
+    },
+    {
+      "field": "marital_status",
+      "operator": "in",
+      "value": [
+        "married",
+        "widowed",
+        "divorced",
+        "abandoned"
+      ]
+    }
+  ],
+  "documents": [
+    "Samagra Family ID/member ID",
+    "Aadhaar card",
+    "Mobile number registered with Samagra",
+    "Own Aadhaar-linked DBT-enabled bank account"
+  ],
+  "application_steps": [
+    "Prepare Samagra e-KYC and bank DBT requirements",
+    "Application entry is carried out through the prescribed camp/Gram Panchayat/Ward process"
+  ],
+  "application_url": "https://cmladlibahna.mp.gov.in/",
+  "official_source_url": "https://cmladlibahna.mp.gov.in/",
+  "last_verified": "2026-09-30",
+  "keywords": [
+    "ladli behna",
+    "लाड़ली बहना",
+    "महिला",
+    "women",
+    "mp"
+  ]
+}

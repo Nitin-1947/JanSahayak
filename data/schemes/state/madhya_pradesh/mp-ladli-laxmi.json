@@ -1,0 +1,43 @@
+{
+  "scheme_id": "mp-ladli-laxmi",
+  "name": "मुख्यमंत्री लाड़ली लक्ष्मी योजना",
+  "level": "state",
+  "state": "Madhya Pradesh",
+  "department": "महिला एवं बाल विकास विभाग",
+  "description": "MP scheme intended to support the education and future of eligible girls.",
+  "benefits": [
+    "Education-linked incentives and a payment at the prescribed stage subject to scheme conditions"
+  ],
+  "eligibility_rules": [
+    {
+      "field": "state",
+      "operator": "eq",
+      "value": "Madhya Pradesh"
+    },
+    {
+      "field": "girl_child_age",
+      "operator": "lt",
+      "value": 18
+    }
+  ],
+  "documents": [
+    "Girl's birth certificate",
+    "Photo with parent",
+    "Residence/local proof as prescribed",
+    "Vaccination card"
+  ],
+  "application_steps": [
+    "Check eligibility and documents on the official Ladli Laxmi portal",
+    "Submit application through the prescribed process"
+  ],
+  "application_url": "https://ladlilaxmi.mp.gov.in/",
+  "official_source_url": "https://www.cmhelpline.mp.gov.in/Schmedetail.aspx?Schemeid=246",
+  "last_verified": "2026-09-30",
+  "keywords": [
+    "ladli laxmi",
+    "लाड़ली लक्ष्मी",
+    "girl",
+    "बालिका",
+    "mp"
+  ]
+}

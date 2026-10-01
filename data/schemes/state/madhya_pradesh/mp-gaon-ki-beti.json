@@ -1,0 +1,55 @@
+{
+  "scheme_id": "mp-gaon-ki-beti",
+  "name": "गाँव की बेटी",
+  "level": "state",
+  "state": "Madhya Pradesh",
+  "department": "उच्च शिक्षा विभाग",
+  "description": "Scholarship/incentive for eligible girls from rural areas who meet the prescribed Class 12 performance and other conditions.",
+  "benefits": [
+    "Annual assistance of ₹5,000; engineering/medical students may receive ₹7,500 under the published scheme details"
+  ],
+  "eligibility_rules": [
+    {
+      "field": "state",
+      "operator": "eq",
+      "value": "Madhya Pradesh"
+    },
+    {
+      "field": "gender",
+      "operator": "eq",
+      "value": "female"
+    },
+    {
+      "field": "residence_type",
+      "operator": "eq",
+      "value": "rural"
+    },
+    {
+      "field": "class12_percent",
+      "operator": "gte",
+      "value": 60
+    }
+  ],
+  "documents": [
+    "Current College Code",
+    "Branch Code",
+    "Photograph",
+    "Other relevant documents requested by portal"
+  ],
+  "application_steps": [
+    "Register on the MP scholarship portal",
+    "Log in with registration ID",
+    "Apply for the scheme through the portal"
+  ],
+  "application_url": "http://scholarshipportal.mp.nic.in/Index.aspx",
+  "official_source_url": "https://cmhelpline.mp.gov.in/Schmedetail.aspx?Schemeid=48",
+  "last_verified": "2026-09-30",
+  "keywords": [
+    "gaon ki beti",
+    "गाँव की बेटी",
+    "student",
+    "छात्रा",
+    "scholarship",
+    "छात्रवृत्ति"
+  ]
+}
